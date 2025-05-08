@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Local Expiry Alert</string>
+    <string name="add_expiry_item">Add Expiry Item</string>
+    <string name="all_items">All Items</string>
+    <string name="update_item">Update Item</string>
+    <string name="deleted_items">Deleted Items</string>
+    <string name="settings">Settings</string>
+    <string name="item_name">Item Name</string>
+    <string name="expiry_date">Expiry Date (YYYY-MM-DD)</string>
+    <string name="description">Description (Optional)</string>
+    <string name="add_item">Add Item</string>
+    <string name="view_all_items">View All Items</string>
+    <string name="deleted_items_button">Deleted Items</string>
+    <string name="settings_button">Settings</string>
+    <string name="update_item_button">Update Item</string>
+    <string name="search_items">Search items...</string>
+    <string name="search_deleted_items">Search deleted items...</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="reminder_days">Reminder Days</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="export_to_csv">Export to CSV</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="restore">Restore</string>
+    <string name="delete">Delete</string>
+</resources>
